@@ -67,9 +67,20 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LeetCodeMedium.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LeetCodeMediumDivide.cs">
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeetCodeMedium.aspx.cs">
+      <DependentUpon>LeetCodeMedium.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeetCodeMedium.aspx.designer.cs">
+      <DependentUpon>LeetCodeMedium.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
