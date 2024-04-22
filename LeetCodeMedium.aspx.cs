@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+# Name: Thomas Dyer
+# email:dyertm@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/2024
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: This is the code behind my web page which specifies what happens when the button is pressed. It calls the divide class and gives the answer to our example. 
+# Citations: Microsoft co-pilot AI
+# Anything else that's relevant:
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;

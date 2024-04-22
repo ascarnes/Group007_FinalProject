@@ -1,4 +1,15 @@
-﻿using System;
+﻿/*
+# Name: Alex Carnes
+# email:carnesas@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/2024
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: This is the C# that takes an array of integers and a target number. It then chooses 2 of the integers that add up to the target integer.
+# Citations: Microsoft co-pilot AI
+# Anything else that's relevant:
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;

@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+# Name: Thomas Dyer
+# email:dyertm@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/2024
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: This is the class which I utilized to create the divide operation which is further utilized in the code
+behind my Leet Code Medium class.
+# Citations: Microsoft co-pilot AI
+# Anything else that's relevant:
+ */
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;

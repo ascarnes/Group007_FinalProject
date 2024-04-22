@@ -1,4 +1,16 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LeetCodeEasy.aspx.cs" Inherits="Group007_FinalProject.LeetCodeEasy" %>
+﻿<!--
+# Name: Alex Carnes
+# email:carnesas@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/2024
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: Creates the web interface that allows the user to see the LeetCode problem, example, and then click a
+    button that solves the problem.
+# Citations: Microsoft co-pilot AI
+# Anything else that's relevant:    
+-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LeetCodeEasy.aspx.cs" Inherits="Group007_FinalProject.LeetCodeEasy" %>
 
 <!DOCTYPE html>
 

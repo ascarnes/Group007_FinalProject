@@ -1,4 +1,16 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LeetCodeMedium.aspx.cs" Inherits="Group007_FinalProject.LeetCodeMedium" %>
+﻿<!--
+# Name: Thomas Dyer
+# email:dyertm@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 4/23/2024
+# Course: IS 3050
+# Semester/Year: Spring 2024
+# Brief Description: This is the webfrom that create the interface for the interaction with my Leet code medium difficulty problem.
+    It displays the problem title, description, one example, and the button which when pressed runs the code behind and gives the same solution.
+# Citations: Microsoft co-pilot AI
+# Anything else that's relevant:    
+-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="LeetCodeMedium.aspx.cs" Inherits="Group007_FinalProject.LeetCodeMedium" %>
 
 <!DOCTYPE html>
 
