@@ -69,6 +69,7 @@
   <ItemGroup>
     <Content Include="Index.aspx" />
     <Content Include="LeetCodeEasy.aspx" />
+    <Content Include="LeetCodeHard.aspx" />
     <Content Include="LeetCodeMedium.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -86,6 +87,13 @@
     </Compile>
     <Compile Include="LeetCodeEasy.aspx.designer.cs">
       <DependentUpon>LeetCodeEasy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="LeetCodeHard.aspx.cs">
+      <DependentUpon>LeetCodeHard.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="LeetCodeHard.aspx.designer.cs">
+      <DependentUpon>LeetCodeHard.aspx</DependentUpon>
     </Compile>
     <Compile Include="LeetCodeMediumDivide.cs">
       <SubType>ASPXCodeBehind</SubType>
