@@ -12,12 +12,12 @@
 <%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index.aspx.cs" Inherits="Group007_FinalProject.Index" %>
 
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title></title>
+    <title>Group07_FinalProject</title>
 </head>
 <body>
+    <h1>Group 07 LeetCode Solutions</h1> <!-- Add the header here -->
     <form id="form1" runat="server">
         <div>
             <asp:Button ID="btnLeetCodeEasy" runat="server" Text="LeetCodeEasy" OnClick="LeetCodeEasy_Click" />
